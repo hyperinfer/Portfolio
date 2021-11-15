@@ -1,0 +1,99 @@
+Alabama
+https://www.ncdc.noaa.gov/cag/statewide/time-series/1-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Alaska
+https://www.ncdc.noaa.gov/cag/statewide/time-series/50-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1925&endbaseyear=2000
+Arizona
+https://www.ncdc.noaa.gov/cag/statewide/time-series/2-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Arkansas
+https://www.ncdc.noaa.gov/cag/statewide/time-series/3-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+California
+https://www.ncdc.noaa.gov/cag/statewide/time-series/4-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Colorado
+https://www.ncdc.noaa.gov/cag/statewide/time-series/5-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Connecticut
+https://www.ncdc.noaa.gov/cag/statewide/time-series/6-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Delaware
+https://www.ncdc.noaa.gov/cag/statewide/time-series/7-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Florida
+https://www.ncdc.noaa.gov/cag/statewide/time-series/8-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Georgia
+https://www.ncdc.noaa.gov/cag/statewide/time-series/9-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Idaho
+https://www.ncdc.noaa.gov/cag/statewide/time-series/10-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Illinois
+https://www.ncdc.noaa.gov/cag/statewide/time-series/11-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Indiana
+https://www.ncdc.noaa.gov/cag/statewide/time-series/12-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Iowa
+https://www.ncdc.noaa.gov/cag/statewide/time-series/13-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Kansas
+https://www.ncdc.noaa.gov/cag/statewide/time-series/13-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Kentucky
+https://www.ncdc.noaa.gov/cag/statewide/time-series/15-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Louisiana
+https://www.ncdc.noaa.gov/cag/statewide/time-series/16-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Maine
+https://www.ncdc.noaa.gov/cag/statewide/time-series/17-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Maryland
+https://www.ncdc.noaa.gov/cag/statewide/time-series/18-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Massachusetts
+https://www.ncdc.noaa.gov/cag/statewide/time-series/19-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Michigan
+https://www.ncdc.noaa.gov/cag/statewide/time-series/20-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Minnesota
+https://www.ncdc.noaa.gov/cag/statewide/time-series/21-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Mississippi
+https://www.ncdc.noaa.gov/cag/statewide/time-series/22-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Missouri
+https://www.ncdc.noaa.gov/cag/statewide/time-series/23-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Montana
+https://www.ncdc.noaa.gov/cag/statewide/time-series/24-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Nebraska
+https://www.ncdc.noaa.gov/cag/statewide/time-series/25-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Nevada
+https://www.ncdc.noaa.gov/cag/statewide/time-series/26-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+New Hampshire
+https://www.ncdc.noaa.gov/cag/statewide/time-series/27-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+New Jersey
+https://www.ncdc.noaa.gov/cag/statewide/time-series/28-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+New Mexico
+https://www.ncdc.noaa.gov/cag/statewide/time-series/29-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+New York
+https://www.ncdc.noaa.gov/cag/statewide/time-series/30-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+North Carolina
+https://www.ncdc.noaa.gov/cag/statewide/time-series/31-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+North Dakota
+https://www.ncdc.noaa.gov/cag/statewide/time-series/32-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Ohio
+https://www.ncdc.noaa.gov/cag/statewide/time-series/33-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Oklahoma
+https://www.ncdc.noaa.gov/cag/statewide/time-series/34-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Oregon
+https://www.ncdc.noaa.gov/cag/statewide/time-series/35-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Pennsylvania
+https://www.ncdc.noaa.gov/cag/statewide/time-series/36-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Rhode Island
+https://www.ncdc.noaa.gov/cag/statewide/time-series/37-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+South Carolina
+https://www.ncdc.noaa.gov/cag/statewide/time-series/38-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+South Dakota
+https://www.ncdc.noaa.gov/cag/statewide/time-series/39-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Tennessee
+https://www.ncdc.noaa.gov/cag/statewide/time-series/40-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Texas
+https://www.ncdc.noaa.gov/cag/statewide/time-series/41-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Utah
+https://www.ncdc.noaa.gov/cag/statewide/time-series/42-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Vermont
+https://www.ncdc.noaa.gov/cag/statewide/time-series/43-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Virginia
+https://www.ncdc.noaa.gov/cag/statewide/time-series/44-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Washington
+https://www.ncdc.noaa.gov/cag/statewide/time-series/45-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+West Virginia
+https://www.ncdc.noaa.gov/cag/statewide/time-series/46-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Wisconsin
+https://www.ncdc.noaa.gov/cag/statewide/time-series/47-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+Wyoming
+https://www.ncdc.noaa.gov/cag/statewide/time-series/48-tavg-all-1-2000-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000
+
