@@ -1,1 +1,1 @@
-The combined codes for the implementation of the right-hand side unit root test as part of my bachelor's thesis. Submitted on the fourth of November 2020.
+The combined codes for the implementation of the right-hand side unit root test as part of my bachelor's thesis. The MATLAB code for simulating the respective test statistics was created using the code provided by Phillips, Shi and Yu (2011). Submitted on the fourth of November 2020.
