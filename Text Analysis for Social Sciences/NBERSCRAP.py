@@ -52,13 +52,14 @@ pdfs = []
 tika.initVM()
 #--#
 
+#Most print()-functions are for selfassesment and can be deleted or put as comment if not needed!
+
 while True:
     #Get the current overviewpage and list all links
     links = []
-    head = wd.find_elements(By.CSS_SELECTOR,"div.digest-card__title a")
+    head = wd.find_elements(By.CSS_SELECTOR,"a[class='paper-card__paper_number']")
     for j in list(range(0,(len(head)))): links.append(str(head[j].get_attribute("href")))
     print(links)
-    
     #Start one-by-one extraction
     for i in list(range(0,len(links))):
         wd.get(links[i])
@@ -66,15 +67,18 @@ while True:
         pdf = wd.find_element(By.CSS_SELECTOR,"a[class='btn btn--primary btn--black']")
         print(pdf.get_attribute("href"))
         pdfs.append(parser.from_file(str(pdf.get_attribute("href")),service="text"))    
-    
+    #Navigate back to overviewpage 
     wd.get(url)
+    #And try to navigate to the next site
     try:
         wd.find_element(By.CSS_SELECTOR,"button[class='btn btn--link pager__next']").click()
         url = str(wd.current_url)
+        #For some reason necessary to avoid StaleElementReference
+        wd.get(url)
+        wd.implicitly_wait(1)
         print(url)
     except (TimeoutException, WebDriverException):
         print("Finished")
         break
     
 wd.quit()
-        
