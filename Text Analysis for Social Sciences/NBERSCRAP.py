@@ -24,6 +24,8 @@ import pandas as pd
 #Requires Java SE
 import tika
 from tika import parser # pip install tika
+
+import json
 #--#
 
 #Change CWD to Webdriver Location
@@ -54,6 +56,9 @@ tika.initVM()
 
 #Most print()-functions are for selfassesment and can be deleted or put as comment if not needed!
 
+#Note: The NBER website does not seem to approve large-scale scraping attempts and denies page access after about two iterations. 
+#However, if this is done within an academic network (we use the VPN network of the University of Hamburg) this is no longer a problem!
+
 while True:
     #Get the current overviewpage and list all links
     links = []
@@ -66,7 +71,7 @@ while True:
         wd.implicitly_wait(1)
         pdf = wd.find_element(By.CSS_SELECTOR,"a[class='btn btn--primary btn--black']")
         print(pdf.get_attribute("href"))
-        pdfs.append(parser.from_file(str(pdf.get_attribute("href")),service="text"))    
+        pdfs.append(parser.from_file(str(pdf.get_attribute("href")),service="all"))    
     #Navigate back to overviewpage 
     wd.get(url)
     #And try to navigate to the next site
@@ -82,3 +87,8 @@ while True:
         break
     
 wd.quit()
+
+#Export list to a JSON-File
+file = open("NBERpdfs.json","w+")
+json.dump(pdfs,file)
+file.close()
